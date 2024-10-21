@@ -45,7 +45,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem 'faker', '~> 3.4', '>= 3.4.2'
+gem 'faker', '~> 3.5'
 
 group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
